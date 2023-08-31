@@ -13,7 +13,8 @@ Practice using HTML tags to structure a content on web pages.
 
 Steps are to be completed under the div with `id="exercise1"`
 
-1. Create a **heading 1** element that contains your name between opening and closing tags
+1. Create a **heading 1** element that contains your name between opening and closing tag
+
 2. Create a **paragraph** element that contains a bio about yourself
 
 ## Exercise 2
